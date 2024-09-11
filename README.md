@@ -16,3 +16,7 @@ Each battle's solution is stored in a separate folder named after the battle. Wi
 - **screenshot.png**: A screenshot of my solution.
 
 ## Screenshots
+
+#### play_161
+
+<img src="./src/play_161/screenshot.png" height="300px" alt="play_161">
