@@ -20,3 +20,7 @@ Each battle's solution is stored in a separate folder named after the battle. Wi
 #### play_161
 
 <img src="play_161/result.png" height="300px" alt="play_161">
+
+#### play_22
+
+<img src="play_22/screenshot.png" height="300px" alt="play_22">
